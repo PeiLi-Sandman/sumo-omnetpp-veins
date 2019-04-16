@@ -43,3 +43,9 @@ The installation of veins is quite simple, just download it from its officail [s
 # BUILD CONNECTION
 
 After you got sumo, omnetpp and veins, you can try fisrt to run the example provided by veins. Take a look at this [Youtube video](https://www.youtube.com/watch?v=a6te888H7IM&t=431s), it is really helpful
+
+# Try you own project
+
+Another exciting thing is to build a network for your own, the process is quite simple. Please check this [Youtube video](https://www.youtube.com/watch?v=Mh4WnY4KY4Y&list=WL&index=24&t=0s).
+
+By the way, all the information I provided here are built based on other people's efforts. I just summarize them together based on my understanding.
