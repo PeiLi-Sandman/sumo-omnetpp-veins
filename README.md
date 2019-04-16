@@ -40,11 +40,11 @@ Although there are many videos or blogs about the installation of it, I strongly
 
 The installation of veins is quite simple, just download it from its officail [site](https://veins.car2x.org/tutorial/).
 
-# BUILD CONNECTION
+# Build Connection
 
 After you got sumo, omnetpp and veins, you can try fisrt to run the example provided by veins. Take a look at this [Youtube video](https://www.youtube.com/watch?v=a6te888H7IM&t=431s), it is really helpful
 
-# Try you own project
+# Try Your Project
 
 Another exciting thing is to build a network for your own, the process is quite simple. Please check this [Youtube video](https://www.youtube.com/watch?v=Mh4WnY4KY4Y&list=WL&index=24&t=0s).
 
